@@ -1,5 +1,3 @@
-# [milogreen.github.io/portfolio](https://milogreen.github.io/portfolio)
-
 ### Kelsey Milo Green
 *I turn big data into big insights, and coffee into code.*
 
