@@ -1,11 +1,6 @@
-# [mkgreen.github.io/home](https://mkgreen.github.io/milogreen.github.io/)
+# Kelsey Milo Green - Data Scientist
 
-### Kelsey Milo Green
-*I turn big data into big insights, and coffee into code.*
-
-This is my Data Science Portfolio
-
-# Milo Green - Data Scientist
+*This is my Data Science Portfolio*
 
 [![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)](https://www.linkedin.com/in/kelsey-m-green/)
 
