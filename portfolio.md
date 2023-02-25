@@ -2,7 +2,7 @@
 
 *This is my Data Science Portfolio*
 
-[![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)](https://www.linkedin.com/in/kelsey-m-green/)
+[![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)](https://mkgreen.github.io/milogreen.github.io/)
 
 ## email me: [green.milok@gmail.com](mailto:green.milok@gmail.com)
 
