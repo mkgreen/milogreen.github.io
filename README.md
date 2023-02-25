@@ -10,7 +10,7 @@
 # *Data Science Portfolio*
 
 Here are some of my best Data Science Projects. I have explored various machine learning algorithms for different real world datasets. Please feel free to contact me to learn more about my experience working with these projects.
-***
+
 ### [Diagnosis of breast cancer using a logistic classifier](https://github.com/mkgreen/Breast-Cancer-Classification)
 
 [![breast-cancer](https://user-images.githubusercontent.com/105948938/210696322-7f632410-13c6-4aab-8e00-bf7552a32917.jpeg)](https://github.com/mkgreen/Breast-Cancer-Classification)
