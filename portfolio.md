@@ -1,15 +1,13 @@
 # Kelsey Milo Green - Data Scientist
 
-*This is my Data Science Portfolio*
-
 [![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)](https://mkgreen.github.io/milogreen.github.io/)
 
-## email me: [green.milok@gmail.com](mailto:green.milok@gmail.com)
+### email me: [green.milok@gmail.com](mailto:green.milok@gmail.com)
 
-## Find me on [LinkedIn](https://www.linkedin.com/in/kelsey-m-green/)
+### Find me on [LinkedIn](https://www.linkedin.com/in/kelsey-m-green/)
 
 
-# Data Science Portfolio
+# *Data Science Portfolio*
 
 Here are some of my best Data Science Projects. I have explored various machine learning algorithms for different real world datasets. Please feel free to contact me to learn more about my experience working with these projects.
 ***
