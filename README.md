@@ -4,9 +4,9 @@
 
 [![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)](https://www.linkedin.com/in/kelsey-m-green/)
 
-email: green.milok@gmail.com
+## email me: [green.milok@gmail.com](mailto:green.milok@gmail.com)
 
-[View My LinkedIn Profile](https://www.linkedin.com/in/kelsey-m-green/)
+## Find me on [LinkedIn](https://www.linkedin.com/in/kelsey-m-green/)
 
 
 # Data Science Portfolio
