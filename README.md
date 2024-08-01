@@ -1,6 +1,16 @@
 # Kelsey Milo Green - Data Scientist
 
+<!-- 
+This is a multi-line comment.
+It will not be displayed in the rendered Markdown.
+Old profile picture linked to linkedIn seen on line below:
 [![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)](https://mkgreen.github.io/milogreen.github.io/)
+-->
+
+
+[<a href="https://www.linkedin.com/in/kelsey-m-green/">
+  <img src="https://media.licdn.com/dms/image/D5603AQE2DBoyEKtB9g/profile-displayphoto-shrink_800_800/0/1709790481553?e=1727913600&v=beta&t=8kM-F-hPN-rFbQQ3w8fL4aAn0N9_lO5SbqgjplU_zDI" alt="milokgreen" width="200"/>
+</a>](https://www.linkedin.com/in/kelsey-m-green/)
 
 ***email me: [green.milok@gmail.com](mailto:green.milok@gmail.com)***
 
