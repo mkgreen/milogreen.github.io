@@ -1,4 +1,4 @@
-# Kelsey Milo Green - Data Scientist
+<!--# Kelsey Milo Green - Data Scientist-->
 
 <!-- 
 This is a multi-line comment.
@@ -13,6 +13,8 @@ Below is square headshot only no banner with link to LinkedIn.
   <img src="https://media.licdn.com/dms/image/D5603AQE2DBoyEKtB9g/profile-displayphoto-shrink_800_800/0/1709790481553?e=1727913600&v=beta&t=8kM-F-hPN-rFbQQ3w8fL4aAn0N9_lO5SbqgjplU_zDI" alt="milokgreen" width="200"/>
 </a>](https://www.linkedin.com/in/kelsey-m-green/)
 -->
+<!--new banner-->
+<img width="1438" alt="Screenshot 2024-08-02 at 8 47 04 PM" src="https://github.com/user-attachments/assets/9d9dec69-12d3-4d3f-92f9-09424e0af8af">
 
 ***email me: [green.milok@gmail.com](mailto:green.milok@gmail.com)***
 
