@@ -141,6 +141,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ![5](https://github.com/user-attachments/assets/7f1a6b10-6afc-42cb-a6c1-2aad0ef31eb0)
 
 <!-- Credly certification image: -->
-![Data Science, Machine Learning   AI ISSUED TO Kelsey M  Green(1)](https://github.com/user-attachments/assets/d0107992-2c98-4231-8b65-b39e48975a47)
+[![Data Science, Machine Learning   AI ISSUED TO Kelsey M  Green(1)](https://github.com/user-attachments/assets/d0107992-2c98-4231-8b65-b39e48975a47)](https://www.credly.com/badges/275a65fb-d6e4-4749-be9a-0b4d2db4ea36/)
 
 
