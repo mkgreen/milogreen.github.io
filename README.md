@@ -126,14 +126,18 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 # *Data Science Portfolio, Education, Credentials Continued:*
 <!-- freelance work -->
+![7](https://github.com/user-attachments/assets/52506b86-c7a4-45b1-802d-97d800ca5217)
 
 <!-- dashboard work -->
+![10](https://github.com/user-attachments/assets/3ef0f8a9-6eb6-4088-82cf-5f10d9503e21)
 
 <!-- BPL slide -->
+![6](https://github.com/user-attachments/assets/989a64ff-54e5-4605-8c6b-3e7fb26808ec)
 
 <!-- educational background image: -->
 ![5](https://github.com/user-attachments/assets/7f1a6b10-6afc-42cb-a6c1-2aad0ef31eb0)
 
 <!-- Credly certification image: -->
+![Data Science, Machine Learning   AI ISSUED TO Kelsey M  Green(1)](https://github.com/user-attachments/assets/d0107992-2c98-4231-8b65-b39e48975a47)
 
 
