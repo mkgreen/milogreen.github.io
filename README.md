@@ -3,12 +3,12 @@
 <!-- 
 This is a multi-line comment.
 It will not be displayed in the rendered Markdown.
-Old profile picture linked to linkedIn seen on line below:
+Old profile picture linked to linkedIn seen on the line below:
 [![milokgreen](https://user-images.githubusercontent.com/105948938/210701763-c42b2db9-5fb0-4d9a-a64a-57dbbb57a349.png)](https://mkgreen.github.io/milogreen.github.io/)
 -->
 
 <!-- 
-Below is square headshot only no banner with link to LinkedIn.
+Below is a square headshot only no banner with a link to LinkedIn.
 [<a href="https://www.linkedin.com/in/kelsey-m-green/">
   <img src="https://media.licdn.com/dms/image/D5603AQE2DBoyEKtB9g/profile-displayphoto-shrink_800_800/0/1709790481553?e=1727913600&v=beta&t=8kM-F-hPN-rFbQQ3w8fL4aAn0N9_lO5SbqgjplU_zDI" alt="milokgreen" width="200"/>
 </a>](https://www.linkedin.com/in/kelsey-m-green/)
@@ -21,9 +21,9 @@ Below is square headshot only no banner with link to LinkedIn.
 ***Find me on [LinkedIn](https://www.linkedin.com/in/kelsey-m-green/)***
 
 
-# *Data Science Portfolio*
+# *Data Science Projects*
 
-Here are some of my best Data Science Projects. I have explored various machine learning algorithms for different real world datasets. Please feel free to contact me to learn more about my experience working with these projects.
+Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different real-world datasets. Please feel free to contact me to learn more about my experience working on these projects.
 
 ### [Diagnosis of breast cancer using a logistic classifier](https://github.com/mkgreen/Breast-Cancer-Classification)
 
@@ -32,14 +32,14 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropriate measures to accurately diagnose, treat, and save lives. 
 
 **Quantifiable result:** Types of tumors were successfully classified with [**96%** accuracy by using K-means algorithm](https://github.com/mkgreen/Breast-Cancer-Classification/blob/main/Breast_cancer_classification_algorithm.ipynb).
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
+- Used logistic regression to identify a tumor as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Explored a machine-learning approach to medical diagnosis
 
 ***
 ### [Amazon Fine Food Analysis using NLP](https://github.com/mkgreen/NLP-Amazon-Reviews/blob/main/README.md)
@@ -49,14 +49,14 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Skills used:** Python, Pandas, SKlearn, TfidVectorizer
 
-**Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods .
+**Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods.
 
-**Quantifiable result:** A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate way of determining the polarity (positivity/negativity) 
+**Quantifiable result:** A rating of 4 or 5 could be considered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is neutral and ignored. This is an approximate way of determining the polarity (positivity/negativity) 
 
 [**AUC** Score of 94%](https://github.com/mkgreen/NLP-Amazon-Reviews/blob/main/NLP_Project_Amazon_Reviews.ipynb) .
 - Given a review, it is determined whether the review is positive or negative.
 - Used NLP for this approach.
-- A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
+- A review of 1 or 2 could be considered negative. A review of 3 is neutral and ignored.
 
 ***
 ### [Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB)
@@ -80,13 +80,13 @@ Here are some of my best Data Science Projects. I have explored various machine 
 [![Mobile](https://user-images.githubusercontent.com/105948938/210698301-3cab65b9-c084-47a4-915f-a092d8377d9e.jpeg)](https://github.com/mkgreen/Fraud-Detection-DT-Ensemble/blob/main/Bagging_and_Boosting_Esemble_Project.ipynb)
 
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, XGboost Classifier, BaggingClassifier
 
 **Project Objective:** Predict fraud by using the data gathered from features associated with clicks, such as IP address, operating system, device type, time of click, etc.
 
 **Quantifiable result:** Successful classification of people who did and did not download the app after watching an advertisement with an accuracy of 97%.
 
-- Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
+- Used the XGboost Classifier algorithm to classify the People who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
 - Selected best model based on train and test performance
 
@@ -113,14 +113,15 @@ Here are some of my best Data Science Projects. I have explored various machine 
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+**Project Objective:** Predicting Bike rental demand based on weather and seasonal factors in advance to take appropriate measures which finally will result in bike utilization.
 
 **Quantifiable result:** Successfully able to predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb).
 
 - Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Cross Validation for validating the training data and model fit.
+- Cross-validation for validating the training data and model fit.
 - Fit a Random Forest Regressor with high prediction accuracy through iteration
 
 ***
+# *Data Science Portfolio, Education, Credentials Continued:*
