@@ -122,6 +122,18 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Cross-validation for validating the training data and model fit.
 - Fit a Random Forest Regressor with high prediction accuracy through iteration
-
+<!-- comment -->
 ***
 # *Data Science Portfolio, Education, Credentials Continued:*
+<!-- freelance work -->
+
+<!-- dashboard work -->
+
+<!-- BPL slide -->
+
+<!-- educational background image: -->
+![5](https://github.com/user-attachments/assets/7f1a6b10-6afc-42cb-a6c1-2aad0ef31eb0)
+
+<!-- Credly certification image: -->
+
+
