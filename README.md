@@ -14,7 +14,7 @@ Below is square headshot only no banner with link to LinkedIn.
 </a>](https://www.linkedin.com/in/kelsey-m-green/)
 -->
 <!--new banner-->
-<img width="1438" alt="Screenshot 2024-08-02 at 8 47 04 PM" src="https://github.com/user-attachments/assets/9d9dec69-12d3-4d3f-92f9-09424e0af8af">
+[<img width="1438" alt="Screenshot 2024-08-02 at 8 47 04 PM" src="https://github.com/user-attachments/assets/9d9dec69-12d3-4d3f-92f9-09424e0af8af">](www.linkedin.com/in/kelsey-m-green)
 
 ***email me: [green.milok@gmail.com](mailto:green.milok@gmail.com)***
 
