@@ -127,18 +127,18 @@ Here are some of my best Data Science Projects. I have explored various machine-
 # *Data Science Portfolio, Education, Credentials Continued:*
 ## Making a difference with data at the Brooklyn Public Library
 <!-- BPL slide -->
-![6](https://github.com/user-attachments/assets/989a64ff-54e5-4605-8c6b-3e7fb26808ec)
+[![6](https://github.com/user-attachments/assets/989a64ff-54e5-4605-8c6b-3e7fb26808ec)](https://www.linkedin.com/in/kelsey-m-green)
 ***
 ## What I am doing now
 <!-- freelance work -->
-![7](https://github.com/user-attachments/assets/52506b86-c7a4-45b1-802d-97d800ca5217)
+[![7](https://github.com/user-attachments/assets/52506b86-c7a4-45b1-802d-97d800ca5217)](https://data-impact-solutions.b12sites.com/index#about)
 
 <!-- dashboard work -->
-![10](https://github.com/user-attachments/assets/3ef0f8a9-6eb6-4088-82cf-5f10d9503e21)
+[![10](https://github.com/user-attachments/assets/3ef0f8a9-6eb6-4088-82cf-5f10d9503e21)](https://data-impact-solutions.b12sites.com/index#services)
 ***
 ## Education and Certifications:
 <!-- educational background image: -->
-![5](https://github.com/user-attachments/assets/7f1a6b10-6afc-42cb-a6c1-2aad0ef31eb0)
+[![5](https://github.com/user-attachments/assets/7f1a6b10-6afc-42cb-a6c1-2aad0ef31eb0)](https://www.linkedin.com/in/kelsey-m-green/details/honors/)
 
 <!-- Credly certification image: -->
 [![Data Science, Machine Learning   AI ISSUED TO Kelsey M  Green(1)](https://github.com/user-attachments/assets/d0107992-2c98-4231-8b65-b39e48975a47)](https://www.credly.com/badges/275a65fb-d6e4-4749-be9a-0b4d2db4ea36/)
