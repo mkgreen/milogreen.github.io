@@ -1,20 +1,20 @@
 #remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/slate@v0.2.0
-remote_theme: pages-themes/tactile@v0.2.0 <---- ***** 2nd favorite theme *****
+# remote_theme: pages-themes/tactile@v0.2.0 <---- ***** 2nd favorite theme *****
  
 
 
-# remote_theme: pages-themes/midnight@v0.2.0 # <---- ***** favorite theme *****
+remote_theme: pages-themes/midnight@v0.2.0 # <---- ***** favorite theme *****
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-nav:
-  - name: "Home"
-    link: "/"
-  - name: "About"
-    link: "/about"
-  - name: "Contact"
-    link: "/contact"
- - name: "Portfolio"
-    link: "/portfolio"
+# nav:
+#   - name: "Home"
+#     link: "/"
+#   - name: "About"
+#     link: "/about"
+#   - name: "Contact"
+#     link: "/contact"
+#  - name: "Portfolio"
+#     link: "/portfolio"
